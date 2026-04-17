@@ -11,5 +11,6 @@
 
 5. end to end project (chatbook class)
     > encapulation
-    > getter and shetter
-    > static method
+    > getter and shetter - hidden attribute
+    > static method - it does not use object
+    > inheritance
